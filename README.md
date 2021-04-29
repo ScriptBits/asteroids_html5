@@ -1,2 +1,3 @@
 # asteroids_html5
-I am in the process of rewriting my code for the asteroids game; using Javascript ES2018 
+
+I have used this game in my one-semester JavaScript class.  I am in the process of rewriting the code and text this game; reorganizing and updating to Javascript ES2018 
